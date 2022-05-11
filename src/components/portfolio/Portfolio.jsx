@@ -53,8 +53,8 @@ const portfolioData = [
     image: IMG6,
     title:
       'A nice looking responsive product page with a classic cart functionality.',
-    github: 'https://github.com/',
-    demo: 'https://netlify.com',
+    github: 'https://github.com/paul-dont/ecommerce-product-page-main',
+    demo: 'https://steady-biscotti-ddf347.netlify.app/',
   },
 ];
 
